@@ -1,5 +1,5 @@
 # Geoscripting Final Project
-* Title : Equitable and Speedy Covid-19 Vaccine Distribution Mapping in Netehrland.
+* Title : Equitable and Speedy Covid-19 Vaccine Distribution Mapping in Netherlands.
 * Team : AInil Mardhiah & Jacob Von Grunberg
 * Date : 15-01-2020
 
