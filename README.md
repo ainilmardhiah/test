@@ -1,5 +1,11 @@
-# test
-## Try markdown 
+# Geoscripting Final Project
+* Title : 
+* Team : AInil Mardhiah & Jacob Von Grunberg
+* Date : 15-01-2020
+
+## Objective
+Our objective is to create map ........
 
 
-coba pakai geoscrip, semoga bisa
+
+
