@@ -31,3 +31,28 @@ Python with several packages : geopandas, numpy , matplotlib
 
 
 
+
+
+
+# Feedback
+
+Hello, I have read your proposal, and it's a brilliant idea despite the worst cov situation, but it's on another way around that cov give a positive impact to environment. I will give some feedback on your proposal.
+
+1. Task 1, your project's idea is unique and up to date based on the situation now, your background is clear about how to visualize the impact of human activity in industrial and traveling to the clarity of mountain in Nepal now during the covid situation.
+
+2. Task 2, it's good that data requirements are already completed, Copernicus and cloud data from Landsat 8. 
+But, I want to confirm several things here : 
+a) to predict the significant change of aerosol, how many scenes do you need?
+b) For data cloud, since cloud is static data, maybe you can also consider the suitable season or month with the smallest cloud coverage.
+c) I am not sure it is important for you; boundary data may also help you focus on your project area.
+
+3. Task 3, you will combine both GEE and R, nice.
+
+Good luck with your project.
+
+Best regards,
+Heavenly Defiant Lion
+
+
+
+
